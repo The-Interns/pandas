@@ -125,4 +125,5 @@ Here are just a few of the things that pandas does well:
   - Time series-specific functionality: date range generation and frequency
     conversion, moving window statistics, moving window linear regressions,
     date shifting and lagging, etc.
+  - This Version created by The Interns
 """
